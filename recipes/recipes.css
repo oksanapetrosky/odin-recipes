@@ -1,0 +1,19 @@
+body {
+    background-color: #fff7d1;
+}
+.margin {
+    display: flex;
+    justify-content: center;
+}
+ h2, h3, p, li {
+    color: #6A42C2;
+    font-family: "Montserrat", sans-serif;
+}
+h1 {
+    text-align: center;
+    color: #6A42C2;
+    font-family: "Montserrat", sans-serif;
+}
+#image {
+    width: 500px;
+}
